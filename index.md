@@ -9,4 +9,4 @@ This repository contains Knowledge Transfer (KT) documents authored by Drishtant
 - [OTA Firmware Update – Downgrade Process](docs/ota-upgrade-downgrade-process)
 - [OTA Update Feature](docs/ota-update-feature)
 
-### Keep Learning! Keep Working :) 
+##### 😁 Keep Learning! Keep Working :) 
