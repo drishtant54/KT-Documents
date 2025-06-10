@@ -1,3 +1,8 @@
+---
+layout: default
+title: AWRT – SC824ZB Pairing
+---
+
 # AWRT - Smart Relay Pairing Feature
 
 This document outlines the functionality and requirements for the Smart Relay pairing feature with AWRT10RF thermostats and compatible relays (SC824ZB / SC812ZB).
