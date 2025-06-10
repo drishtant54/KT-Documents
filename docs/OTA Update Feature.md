@@ -1,3 +1,9 @@
+---
+layout: default
+title: OTA Update Feature
+---
+
+
 ## OTA Update Feature Overview
 
 ## 🔧 Feature: OTA Update  
