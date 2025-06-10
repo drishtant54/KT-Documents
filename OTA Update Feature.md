@@ -194,13 +194,13 @@ During gateway firmware updates, the device reboots, which can lead to false-neg
 ```
 ---
 
-## 🧪 Last Pull Request for SAUAPP-119  
+### 🧪 Last Pull Request for SAUAPP-119  
 **Title:** Timer Connection Negative Case Handling  
 **PR Link:** [PR #832](https://bitbucket.org/%7B0741cce4-c632-431c-a42b-bf4ce33d34b2%7D/%7B55c24d90-7ff8-4a4e-990b-abc09bd96a14%7D/pull-requests/832)
 
 ---
 
-## 🔥 Hotfix: OTA UX Improvement  
+### 🔥 Hotfix: OTA UX Improvement  
 **Ticket:** [SAUAPP-864](https://salusinc.atlassian.net/browse/SAUAPP-864?focusedCommentId=143761)
 
 ### 🎯 Enhancement  
