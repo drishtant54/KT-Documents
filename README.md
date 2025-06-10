@@ -2,7 +2,7 @@ This repository contains **Knowledge Transfer (KT)** documents authored by **Dri
 
 ## 📄 Available Documents
 
-- [🔗 AWRT - SC824ZB Pairing](./AWRT%20-%20SC824ZB%20Pairing.md)  
+- [🔗 AWRT - SC824ZB Pairing](./AWRT%20-%20SC824ZB%20Pairing.html)  
   Details the pairing logic and flow for the AWRT SC824ZB device.
 
 - [🔗 OTA Firmware Update – Downgrade Process](./OTA%20Firmware%20Update-Downgrade%20Process.md)  
